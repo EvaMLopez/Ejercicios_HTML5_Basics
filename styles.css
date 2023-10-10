@@ -1,0 +1,10 @@
+
+body {    
+    margin: 25px;  
+}
+
+section div {
+    display: inline-block;
+    margin: 0 50px;
+}
+
